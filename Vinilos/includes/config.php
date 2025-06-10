@@ -1,8 +1,8 @@
 <?php
-$server = "localhost";
-$userdb = "root";
-$passworddb = "";
-$namedb = "tienda_vinilos";
+$server = "loggin.mysql.database.azure.comt";
+$userdb = "paco";
+$passworddb = "199627Fggv27";
+$namedb = "tiendavinilos";
 
 $conexion = new mysqli($server, $userdb, $passworddb, $namedb);
 
