@@ -2,7 +2,7 @@
 $server = "loggin.mysql.database.azure.comt";
 $userdb = "paco";
 $passworddb = "199627Fggv27";
-$namedb = "tiendavinilos";
+$namedb = "tienda_vinilos";
 
 $conexion = new mysqli($server, $userdb, $passworddb, $namedb);
 
